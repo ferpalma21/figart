@@ -1,0 +1,16 @@
+{
+  "name": "figart",
+  "version": "1.0.0",
+  "description": "casa de arte",
+  "main": "index.js",
+  "dependencies": {
+    "g": "^2.0.1",
+    "total.js": "^2.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
